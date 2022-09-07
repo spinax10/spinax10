@@ -6,4 +6,6 @@ little knowledge on wave generation (yet :D)
 I'll upload the various coding projects and other random stuff to here as I go along. If something doesn't work, use my email zspinax10@gmail.com to let me know, and 
 I'll try and fix it quickly!
 
+I'm also working on getting all of my 3d design files into one place, so that they are easily accessed by me and anyone else who may need them.
+
 I also don't like emojis. They feel creepy and uncanny to me :^)
